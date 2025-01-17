@@ -1,0 +1,29 @@
+﻿# .NET Core
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# ASP.NET Core environment variables
+.env
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Node.js dependencies (if applicable)
+node_modules/
+
+# User-specific configuration files
+.vscode/settings.json
+.idea/
+
+# Ignore specific appsettings files
+appsettings.Development.json
+appsettings.Production.json
